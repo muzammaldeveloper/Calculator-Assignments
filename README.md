@@ -95,7 +95,7 @@ I’m actively building my developer journey and love connecting with like-minde
 Feel free to reach out through any of the platforms below:
  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/muzammal-hussain-965486360/)
-- 💻 [**GitHub**](https://github.com/muzammalhussain258)  
+- 💻 [**GitHub**](https://github.com/muzammaldeveloper)
 - 🌐 [**Portfolio Website**](https://muzammalhussain.me)
 - 📧 **Email:** muzammal.contect@gmail.com
 ---
